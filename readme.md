@@ -1,5 +1,5 @@
 ======================================================
-Word Guessing Game - COMP.5202 Project
+Word Guessing Game - Project
 ======================================================
 
 Description:
