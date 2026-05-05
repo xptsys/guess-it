@@ -1,6 +1,4 @@
-======================================================
 Word Guessing Game - Project
-======================================================
 
 Description:
 A desktop Word Guessing Game built with Python and Tkinter. The user has six attempts to guess a randomly selected 6-letter word, receiving color-coded feedback for each guess.
